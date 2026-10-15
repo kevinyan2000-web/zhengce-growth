@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="t d">
+<title id="t">把使用流程写给老师看 · 提交文档节选</title><desc id="d">原文节选｜三步使用动线（老师视角）与六库模型。原文节选，重新排版。</desc>
+<rect width="1200" height="900" fill="#E8F2FB"/><rect x="30" y="30" width="1140" height="840" fill="#fff"/>
+<path d="M30 30h16v126H30z" fill="#F12E49"/>
+<g font-family="Noto Sans SC,Microsoft YaHei,sans-serif" fill="#18344e">
+<text x="75" y="88" fill="#165DA7" font-size="22" font-weight="700">以明 AI 研究院 · 郑策作品档案</text>
+<text x="1120" y="88" text-anchor="end" fill="#60758a" font-size="20">2026.08.11</text>
+<text x="75" y="154" font-size="37" font-weight="700">把使用流程写给老师看</text>
+<text x="75" y="198" font-size="22" fill="#60758a">原文节选｜三步使用动线（老师视角）与六库模型</text>
+<path d="M75 226H1120" stroke="#cfdfec" stroke-width="2"/>
+<rect x="75" y="254" width="1050" height="137" fill="#F4F8FC"/>
+<rect x="75" y="254" width="5" height="137" fill="#165DA7"/>
+<text x="101" y="294" font-size="27" font-weight="700">① 录数据</text>
+<text x="101" y="335" font-size="23">把信息交给执行层：建档/录成绩/录错题/传素材…</text>
+<rect x="75" y="409" width="1050" height="102" fill="#F4F8FC"/>
+<rect x="75" y="409" width="5" height="102" fill="#165DA7"/>
+<text x="101" y="449" font-size="27" font-weight="700">② 确认数据</text>
+<text x="101" y="490" font-size="23">执行层展示入库结果，老师核对或补充</text>
+<rect x="75" y="529" width="1050" height="102" fill="#F4F8FC"/>
+<rect x="75" y="529" width="5" height="102" fill="#165DA7"/>
+<text x="101" y="569" font-size="27" font-weight="700">③ 下达任务</text>
+<text x="101" y="610" font-size="23">说需求：出教案/布置作业/批改/出周报…</text>
+<rect x="75" y="649" width="1050" height="102" fill="#F4F8FC"/>
+<rect x="75" y="649" width="5" height="102" fill="#165DA7"/>
+<text x="101" y="689" font-size="27" font-weight="700">六类资源库</text>
+<text x="101" y="730" font-size="23">学生档案库 / 错题库 / 知识点库 / 素材库 / 交付历史库 / 目标与路径库</text>
+<path d="M75 779H1120" stroke="#cfdfec" stroke-width="2"/>
+<text x="75" y="818" font-size="20" fill="#165DA7">提交文档节选 · 重新排版</text>
+<text x="75" y="849" font-size="17" fill="#60758a">来源：ZC-0203 对应文档《伴学 AI 执行手册 · 大纲稿 v0.6》｜方案内容节选</text></g></svg>

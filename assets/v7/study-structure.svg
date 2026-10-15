@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="t d">
+<title id="t">伴学 AI 执行手册 · 大纲稿 v0.6 · 提交文档节选</title><desc id="d">原文节选｜规则层 → 资源数据库 → 执行层。原文节选，重新排版。</desc>
+<rect width="1200" height="900" fill="#E8F2FB"/><rect x="30" y="30" width="1140" height="840" fill="#fff"/>
+<path d="M30 30h16v126H30z" fill="#F12E49"/>
+<g font-family="Noto Sans SC,Microsoft YaHei,sans-serif" fill="#18344e">
+<text x="75" y="88" fill="#165DA7" font-size="22" font-weight="700">以明 AI 研究院 · 郑策作品档案</text>
+<text x="1120" y="88" text-anchor="end" fill="#60758a" font-size="20">2026.08.11</text>
+<text x="75" y="154" font-size="37" font-weight="700">伴学 AI 执行手册 · 大纲稿 v0.6</text>
+<text x="75" y="198" font-size="22" fill="#60758a">原文节选｜规则层 → 资源数据库 → 执行层</text>
+<path d="M75 226H1120" stroke="#cfdfec" stroke-width="2"/>
+<rect x="75" y="254" width="1050" height="137" fill="#F4F8FC"/>
+<rect x="75" y="254" width="5" height="137" fill="#165DA7"/>
+<text x="101" y="294" font-size="27" font-weight="700">① 规则层（立规矩 · 宪法层）</text>
+<text x="101" y="335" font-size="23">定义一切行为规范——执行层应该如何收集数据、</text>
+<text x="101" y="370" font-size="23">如何调用数据、如何应用规则、如何执行动作、如何产出、如何回流</text>
+<rect x="75" y="409" width="1050" height="137" fill="#F4F8FC"/>
+<rect x="75" y="409" width="5" height="137" fill="#165DA7"/>
+<text x="101" y="449" font-size="27" font-weight="700">② 资源数据库（数据资产 · 被动层）</text>
+<text x="101" y="490" font-size="23">被 ③ 执行层读写的六库数据资产，自己不产生行为</text>
+<rect x="75" y="564" width="1050" height="172" fill="#F4F8FC"/>
+<rect x="75" y="564" width="5" height="172" fill="#165DA7"/>
+<text x="101" y="604" font-size="27" font-weight="700">③ 执行层（Agent · 行为主体）</text>
+<text x="101" y="645" font-size="23">在 ① 规则层约束下工作的智能体。</text>
+<text x="101" y="680" font-size="23">执行层内部完成：收集数据 → 调用数据 → 应用规则 →</text>
+<text x="101" y="715" font-size="23">执行动作 → 产出（最后一步）→ 数据回流</text>
+<path d="M75 779H1120" stroke="#cfdfec" stroke-width="2"/>
+<text x="75" y="818" font-size="20" fill="#165DA7">提交文档节选 · 重新排版</text>
+<text x="75" y="849" font-size="17" fill="#60758a">来源：ZC-0203 对应文档《伴学 AI 执行手册 · 大纲稿 v0.6》｜方案内容节选</text></g></svg>
